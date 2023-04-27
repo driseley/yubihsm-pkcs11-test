@@ -1,4 +1,4 @@
-Reproducer for yubihsm2 pkcs11 find objects bug
+Reproducer for yubihsm2 pkcs11 find objects bug: https://github.com/Yubico/yubihsm-shell/issues/335
 
 # yubihsm setup
 
